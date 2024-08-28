@@ -1,1 +1,1 @@
-"# MaterialCursos-DS" 
+Como mencioné, este repositorio lo ocuparé para refrescar mis conocimientos de Git al igual que almacenar todos los documentos, códigos e información de los cursos que estoy tomando para Data Science y Artificial Intelligence.
