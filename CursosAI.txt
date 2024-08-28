@@ -1,0 +1,6 @@
+COGNITIVE CLASS
+Paths: 
+1. Data Science Fundamentals
+2. Applied Data Science with Python
+3. Deep Learning
+OPTIONAL - Fundamentals of AI
